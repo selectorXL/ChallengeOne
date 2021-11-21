@@ -38,12 +38,12 @@ For questionary and fire to work, you must type in git bash/power-shell/comand-l
 ## Usage
 Call the csv file as follows:
 
-![](https://github.com/selectorXL/ChallengeOne/pics/cvs_file_pic.png?raw=true)
+![](https://github.com/selectorXL/ChallengeOne/pics/csvfile.png?raw=true)
 
 Then excute the app in python:
 > ```python app.py```
 
-![](https://github.com/selectorXL/ChallengeOne/pics/example-of-use.png?raw=true)
+![](https://github.com/selectorXL/ChallengeOne/pics/runtime.png?raw=true)
 
 
 ---
