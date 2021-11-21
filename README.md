@@ -43,7 +43,7 @@ Call the csv file as follows:
 Then excute the app in python:
 > ```python app.py```
 
-![](https://github.com/selectorXL/ChallengeOne/pics/runtime.png?raw=true)
+![](https://github.com/selectorXL/ChallengeOne/blob/c7bfb44eecb475a8574c1f90c780766471429b95/pics/runtime.png?raw=true)
 
 
 ---
